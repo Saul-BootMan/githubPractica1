@@ -1,10 +1,10 @@
-#Práctica del curso de git, gitHug
+# Práctica del curso de git, gitHug
 
-###Luis Baeza
-###baeza.luis@gmail.com
+### Luis Baeza
+### baeza.luis@gmail.com
 
 
-##Ejercicio 1
+## Ejercicio 1
 
 ¿Qué comando utilizaste en el paso 11? ¿Por qué? 
 Utilicé: git reset --hard HEAD~1
