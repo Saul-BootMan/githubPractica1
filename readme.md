@@ -3,7 +3,10 @@
 ## Ejercicio 1  
 
 **-¿Qué comando utilizaste en el paso 11? ¿Por qué?**  
-Utilicé: git reset --hard HEAD~1  
+Utilicé: 
+~~~
+git reset --hard HEAD~1  
+~~~
 Porque: Retrocedo 1 commit (al anterior) y al aplicar "--hard", mi Working Copy quedará sin los cambios que se habian aplicado.  
   
   
