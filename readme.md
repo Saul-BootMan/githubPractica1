@@ -1,8 +1,4 @@
 # Práctica del curso de git, gitHug  
-  
-### Luis Baeza  
-### baeza.luis@gmail.com  
-
 
 ## Ejercicio 1  
 
@@ -120,7 +116,9 @@ git reset --hard <Commit_Id>
 
 
 
-
+------- 
+> Better Call a Function!
+*Saul Boot-man* 
 
 
 
