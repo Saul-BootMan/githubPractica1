@@ -1,4 +1,4 @@
-# Práctica del curso de git, gitHug  
+# Práctica del curso de Git, Github
 
 ## Ejercicio 1  
 
@@ -112,13 +112,6 @@ git restore git-nuestro.md
 git reflog
 git reset --hard <Commit_Id> 
 ~~~
-
-
-
-
-------- 
-> Better Call a Function!
-*Saul Boot-man* 
 
 
 
